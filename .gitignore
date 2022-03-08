@@ -3,4 +3,4 @@
 .vscode
 /db_data
 /error.log
-/src
+/src/error.log
